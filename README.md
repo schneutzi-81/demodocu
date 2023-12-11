@@ -99,5 +99,7 @@ Hi, how are we doing today?
 - **Feedback:** Encourage sharing feedback from clients with your teams.
 - **Adopt and Adapt:** Use the demo to adopt best practices and provide an effective demo flow around SoftwareOne.
 
+- #### get ready for GPT-V
+
 - ![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide23.JPG)
 - ![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide24.JPG)
