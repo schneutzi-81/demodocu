@@ -1,7 +1,7 @@
 # Documentation: Demoing Azure Open AI
 
 ## Context
-![Microsoft & OpenAI]([URL](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide8.JPG))
+![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide8.JPG)
 
 ## Initial Steps
 - **Go to the Website Using Edge:** [Azure Chat Solution](https://azurechat-solution-webapp-kmyjikjxtw44g.azurewebsites.net/)
