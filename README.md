@@ -13,7 +13,14 @@
 ### Conversation 1
 
 #### User:
-> Hi, how are we doing today?
+```python
+# Copy this code for a Markdown example
+def example_function():
+    print("Hi, how are we doing today?")
+
+example_function()
+
+> 
 
 #### Azure Open AI Response:
 > Thank you for asking! As an AI, I don't have feelings, but I'm here and ready to assist you. How can I help you today?
