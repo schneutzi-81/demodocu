@@ -106,8 +106,11 @@ Hi, how are we doing today?
 ![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide23.JPG)
 ![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide24.JPG)
 
-[Azure chat repro](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide24.JPG](https://github.com/microsoft/azurechat/blob/main/docs/1-introduction.md)https://github.com/microsoft/azurechat/blob/main/docs/1-introduction.md)
 
-[Azure chat repro](https://github.com/microsoft/CopilotStudioSamples/tree/master))
+[Azure Chat Solution](https://github.com/microsoft/azurechat/blob/main/docs/1-introduction.md)
+
+
+https://github.com/microsoft/CopilotStudioSamples/tree/master
+
 
 
