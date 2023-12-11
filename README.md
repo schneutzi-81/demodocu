@@ -8,6 +8,8 @@
 
 ## Initial Steps
 - **Go to the Website Using Edge:** [Azure Chat Solution](https://azurechat-solution-webapp-kmyjikjxtw44g.azurewebsites.net/)
+
+- resource group :  [Azure Chat Solution](https://portal.azure.com/#@softwareone.com/resource/subscriptions/3b77307b-4382-43d7-8075-7704bf73196f/resourcegroups/rg-swo-appsvc-dach-aichatshowcase/overview/)
 - **Provider Login:** Use Microsoft Swo account.
 
 ### Key Point
