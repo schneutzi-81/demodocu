@@ -1,6 +1,9 @@
 # Documentation: Demoing Azure Open AI
 
-## Context
+### Context
+
+![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide8.JPG)
+
 ![Microsoft & OpenAI](https://github.com/schneutzi-81/demodocu/blob/main/assets/Slide8.JPG)
 
 ## Initial Steps
