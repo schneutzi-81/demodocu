@@ -51,7 +51,7 @@ Hi, how are we doing today?
 ## Starting a New Chat
 
 ### Actions
-- **Upload a PDF:** [https://softwareone-my.sharepoint.com/:b:/p/kay_schneutzer/EbjafI-AszxKqfJvACMCUZ4BIEcmYzxpiuBtvUsx_so_Og?e=daTzrT](#)
+- **Upload a PDF:** [assets/NamasteSwing Report.pdf](#)
 - Show clients the PDF and overview the information. Highlight different tables and how some information is located in various places.
 
 ### Conversation 2
