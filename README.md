@@ -17,25 +17,33 @@ Hi, how are we doing today?
 ```
 
 #### User:
+```plaintext
 > Hi, how are we doing today?
+```
 
 #### Azure Open AI Response:
 > Thank you for asking! As an AI, I don't have feelings, but I'm here and ready to assist you. How can I help you today?
 
 #### User:
+```plaintext
 > Awesome Explain to me in very simple, short English what text embedding is for AI
+```
 
 #### Azure Open AI Response:
 > Text embedding for AI is like turning words into numbers so that computers can understand and work with them. It helps AI models understand the meaning of text and do things like categorize it, find similar text, or understand emotions. It's like translating words into a language that AI can understand.
 
 #### User:
+```plaintext
 > In simple terms, how do vectors function with embeddings in general AI?
+```
 
 #### Azure Open AI Response:
 > Text embedding is a technique used in artificial intelligence to represent words or sentences in a numerical format. It converts text into a mathematical representation that captures semantic relationships, allowing algorithms to perform tasks such as text classification, sentiment analysis, and semantic search more effectively. Basically, text embedding helps AI understand and work with text data in a more meaningful way.
 
 #### User:
+```plaintext
 > How many dance students were enrolled from 2019 to 2021?
+```
 
 #### Azure Open AI Response:
 > I apologize, but as an AI, I do not have access to specific data unless it has been provided to me. Therefore, I do not have information regarding the number of dance students enrolled from 2019 to 2021. You would need to consult the relevant institution or organization to obtain that specific information.
@@ -49,7 +57,9 @@ Hi, how are we doing today?
 ### Conversation 2
 
 #### User:
+```plaintext
 > How many dance students were enrolled from 2019 to 2021?
+```
 
 #### Azure Open AI Response:
 > From 2019 to 2021, a total of 180 + 210 + 250 = 640 dance students were enrolled.
@@ -62,13 +72,18 @@ Hi, how are we doing today?
 ### Further Questions
 
 #### User:
+```plaintext
 > What was the teacher-student ratio from 2019 to 2021?
+```
 
 #### Azure Open AI Response:
+
 > The teacher-student ratio from 2019 to 2021 was approximately 1:15.
 
 #### User:
+```plaintext
 > Can you tell me the earnings for 2021, and which year was the best in terms of revenue?
+```
 
 #### Azure Open AI Response:
 > The earnings for 2021 were 70,000 INR. The year 2022 was the best in terms of revenue with earnings of 80,000 INR.
